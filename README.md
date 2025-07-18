@@ -141,8 +141,10 @@ The project follows a standard Maven directory layout:
 │   └── USER_GUIDE.md      # Detailed user documentation
 ├── README.md              # This file
 └── LICENSE                # Project license
+```
 Use code with caution.
 Markdown
+
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 Please see the CONTRIBUTING.md file for details on our code of conduct and the process for submitting pull requests.
