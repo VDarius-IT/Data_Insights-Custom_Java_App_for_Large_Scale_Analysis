@@ -22,7 +22,6 @@ A robust, from-scratch Java application designed to navigate the complexities of
 *   [Future Roadmap](#-future-roadmap)
 *   [License](#-license)
 *   [Acknowledgments](#-acknowledgments)
-*   [Contact](#-contact)
 
 ## 🎯 The Challenge
 
@@ -142,21 +141,19 @@ The project follows a standard Maven directory layout:
 ├── README.md              # This file
 └── LICENSE                # Project license
 ```
-Use code with caution.
-Markdown
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 Please see the CONTRIBUTING.md file for details on our code of conduct and the process for submitting pull requests.
-🗺️ Future Roadmap
+## 🗺️ Future Roadmap
 Here are some of the features and enhancements planned for the future:
 Support for more data sources (e.g., JSON, databases).
 A simple GUI for interactive analysis.
 Additional visualization types (e.g., box plots, heatmaps).
 More advanced statistical analysis options.
 Comprehensive unit and integration tests.
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 A big thank you to the developers of Apache Commons Math and JFreeChart for their incredible open-source libraries.
 Hat tip to anyone whose code was used as inspiration.
